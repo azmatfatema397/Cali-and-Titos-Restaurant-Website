@@ -1,0 +1,184 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}   
+
+
+.bgimage
+{
+    background-image: url("bg2.jpg");
+    filter: blur(20px);
+    height: 100%;
+    background-position: center;
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+.bg-text
+{   
+    color: white;
+    font-weight: bold;
+    font-family: chiller;
+    font-size: 50;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 80%;
+    padding: 20px;
+    text-align: center;
+}
+
+#hoveronentrees a:hover {
+    text-decoration: underline;
+  }
+
+.bg-text-title-entrees
+{   
+    font-weight: bold;
+    font-family: chiller;
+    font-size: 40;
+    position: absolute;
+    top: 250px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 60%;
+    padding: 10px;
+    text-align: center;
+}
+.entrees-1
+{
+    color: white;
+    font-family: cursive;
+    font-size: 30;
+    position: absolute;
+    top: 240px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 60%;
+    text-align: center;
+}
+.entrees-2
+{
+    color: white;
+    font-family: cursive;
+    font-size: 30;
+    position: absolute;
+    top: 310px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 60%;
+    text-align: center;
+}
+.entrees-3
+{
+    color: white;
+    font-family: cursive;
+    font-size: 30;
+    position: absolute;
+    top: 380px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 60%;
+    text-align: center;
+}
+
+.bg-text-title-salads
+{   
+    font-weight: bold;
+    font-family: chiller;
+    font-size: 40;
+    position: absolute;
+    top: 320px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 60%;
+    padding: 10px;
+    text-align: center;
+}
+
+.bg-text-title-maincourse
+{   
+    color: white;
+    font-weight: bold;
+    font-family: chiller;
+    font-size: 40;
+    position: absolute;
+    top: 390px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 60%;
+    padding: 1px;
+    text-align: center;
+}
+
+
+.bg-text-title-dessert
+{   
+    color: white;
+    font-weight: bold;
+    font-family: chiller;
+    font-size: 40;
+    position: absolute;
+    top: 460px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 60%;
+    padding: 20px;
+    text-align: center;
+}
+
+.bg-text-title-beverages
+{   
+    color: white;
+    font-weight: bold;
+    font-family: chiller;
+    font-size: 40;
+    position: absolute;
+    top: 530px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 60%;
+    padding: 20px;
+    text-align: center;
+}
+.bg-text-heading
+{   
+    color: white;
+    font-weight: bold;
+    font-family: cursive;
+    font-size: 30;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 80%;
+    padding: 20px;
+    text-align: center;
+}
+.image-e1
+{
+
+    position: absolute;
+    top: 250px;
+    left: 60px;
+    border:solid rgb(255, 255, 255);
+    border-width:5px;
+}
+
+.text-e1
+{
+    color: white;
+    position: absolute;
+    font-size: 30;
+    font-family: cursive;
+    top: 210px;
+    left: 450px;
+    right: 20px;
+}
